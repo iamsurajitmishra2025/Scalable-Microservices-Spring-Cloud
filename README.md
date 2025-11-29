@@ -24,6 +24,8 @@
 **Other functionalities:** Spring Cloud offers various other tools for distributed messaging, task execution, and monitoring in a microservices architecture.
 
 
+## maven configuration setup
+[maven-config](https://www.geeksforgeeks.org/advance-java/maven-environment-setup/)
 
 ## Spring-Cloud-Architechture
 
